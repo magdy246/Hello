@@ -25,5 +25,3 @@ The design follows a minimalist approach, emphasizing simplicity and clarity whi
 ## 📸 Screenshots
 
 ![Hello Project Screenshot](https://github.com/magdy246/Hello/raw/master/image.png)
-
-## 🛠️ Setup & Installation
